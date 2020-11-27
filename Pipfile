@@ -11,6 +11,12 @@ django-cors-headers = "*"
 djangorestframework = "*"
 pillow = "*"
 braintree = "*"
+dj-database-url = "*"
+django-heroku = "*"
+gunicorn = "*"
+psycopg2 = "*"
+python-decouple = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.6"
